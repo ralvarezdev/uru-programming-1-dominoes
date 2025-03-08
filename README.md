@@ -15,7 +15,7 @@ This repository contains the source code of a Dominoes terminal game, for the la
 <ol>
 <li>Clone this repository to your local machine using the following command:
 
-```git clone https://github.com/ralvarezdev/uru-dominoes```
+```git clone https://github.com/ralvarezdev/uru-programming-1-dominoes```
 </li>
 
 <li>Change your Current Working Directory to where the repository was cloned</li>
